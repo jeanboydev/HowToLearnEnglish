@@ -98,15 +98,18 @@
 ## 2016.11
 
 - 他在这所学校任教多久了? 
+
   How long has he been teaching in this school?
 
 - 我希望我们的演出会成功。 
+
   I hope our performance will be a success. 
 
 - 春天是游览这个城市的最佳季节。 
+
   The best season to go around this city is in Spring.
 
-- 他们正在打篮球。 
+- 他们正在打篮球。
 
   They are playing basketball. 
 
@@ -222,20 +225,48 @@
 
 - 杰克正在写的报告星期五必须完成。
 
-  The report which Jack is working on muse be finished on Friday.
+  The report which Jack is working on must be finished on Friday.
 
 ## 2013.11
 
 - 在暑假期间，孩子们参观了一个农场。
+
+  During the summer holiday, the children paid a visit to a farm.
+
 - 我们正急忙赶往机场去史密斯先生。
+
+  We are hurrying to the airport to pick up Mr. Smith.
+
 - 他们不知道如何应对压力。
+
+  They don't know how to cope with pressure.
+
 - 我昨天看的那部电影是一个真实的故事。
+
+  The film I saw yesterday is true story.
+
 - 像往常一样，他们又迟到了。
+
+  As usual, they late again.
 
 ## 2013.5
 
 - 昨天，我用了大约两个小时阅读和回复电子邮件。
+
+  I spent about two hours in reading and replying emails yesterday.
+
 - 你认识昨天讲座的那个人吗？
+
+  Do you know the man who gave a lecture yesterday?
+
 - 她已经邀请我们参加她的生日聚会。
+
+  She has already invited us to her birthday party.
+
 - 我到那儿就给你电话。
+
+  I will call you the moment I get there.
+
 - 她去年被提升为经理。
+
+  She was promoted to the position of mananger last year.
